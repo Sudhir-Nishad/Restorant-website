@@ -1,0 +1,43 @@
+.button1
+{
+    height: 30px;
+    width: 100px;
+    background-color: peru;
+    margin-right: 10px;
+    border-radius: 8px;
+    color: white;
+}
+.button2
+{
+    height: 30px;
+    width: 100px;
+    background-color: peru;
+    border-radius: 8px;
+    color: white;
+}
+.btn
+{
+    height: 40px;
+    width: 250px;
+    border: none;
+    /* float: left; */
+    margin-top: 250px;
+    /* position: fixed; */
+    margin-left: -135px;
+}
+.number{
+    
+    margin-top: 200px;
+    margin-left: 500px;
+    float: left;
+    color: white;
+    font-size: 20px;
+}
+.button1:hover
+{
+    color: purple;
+}
+.button2:hover
+{
+    color: purple;
+}

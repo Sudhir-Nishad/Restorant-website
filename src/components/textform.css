@@ -1,0 +1,35 @@
+.form-text
+{
+    color: rebeccapurple;
+    font-size: 20px;
+}
+.form-control
+{
+    width: 400px;
+}
+.textarea
+{
+    width: 500px;
+}
+.butt
+{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 8px;
+}
+.butt:hover
+{
+    cursor: pointer;
+    background-color: rgb(138, 88, 184);
+}
+.summary
+{
+    /* margin-left: -120px; */
+}
+.preview
+{
+    height: 100px;
+    border: 2px solid red ;
+    /* margin-left: -120px; */
+    width: 600px;
+}

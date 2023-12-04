@@ -1,0 +1,17 @@
+.btn
+{
+    height: 40px;
+    width: 100px;
+    background-color: palegreen;
+    margin: auto;
+    margin-top: 200px;
+    margin-left: 500px;
+}
+.btn:hover
+{
+    background-color: rgb(189, 249, 189);
+}
+.pic
+{
+    color: white;
+}
